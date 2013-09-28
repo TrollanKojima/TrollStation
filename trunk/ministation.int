@@ -1,10 +1,12 @@
 // BEGIN_INTERNALS
 /*
 MAP_ICON_TYPE: 0
-WINDOW: maps\mini-station.dmm
+LAST_COMPILE_VERSION: 498.1158
+WINDOW: maps\mini-station.dmm;maps\tgstation.2.1.2.dmm
 UPDATE_OBJ_TREE: ON
 DIR: maps 
 FILE: maps\mini-station.dmm
+LAST_COMPILE_TIME: 1380328601
 AUTO_FILE_DIR: ON
 */
 // END_INTERNALS

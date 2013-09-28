@@ -1151,7 +1151,7 @@
 "awg" = (/obj/machinery/biogenerator,/turf/simulated/floor{icon_state = "yellow"},/area/hallway/primary/central)
 "awh" = (/obj/machinery/vending/hydroseeds,/turf/simulated/floor{icon_state = "yellow"},/area/hallway/primary/central)
 "awi" = (/obj/machinery/atmospherics/unary/vent_pump{dir = 1; external_pressure_bound = 101.325; on = 1; pressure_checks = 1},/obj/structure/table/reinforced,/obj/machinery/reagentgrinder{step_x = -1; step_y = 7},/turf/simulated/floor,/area/hallway/primary/central)
-"awj" = (/obj/structure/table/reinforced,/obj/item/weapon/book/manual/hydroponics_pod_people{step_x = 3; step_y = 3},/obj/item/weapon/paper/hydroponics,/turf/simulated/floor,/area/hallway/primary/central)
+"awj" = (/obj/structure/table/reinforced,/obj/item/weapon/book/manual/hydroponics_pod_people{step_x = 3; step_y = 3},/obj/item/weapon/paper/hydroponics,/obj/item/weapon/storage/bag/plants,/turf/simulated/floor,/area/hallway/primary/central)
 "awk" = (/obj/structure/table,/obj/item/weapon/storage/firstaid/o2{pixel_x = 2; pixel_y = 6},/obj/item/weapon/storage/firstaid/o2{pixel_x = -2; pixel_y = 4},/turf/simulated/floor{icon_state = "white"},/area/medical/medbay)
 "awl" = (/obj/structure/table,/obj/item/clothing/suit/straight_jacket,/obj/item/clothing/mask/muzzle,/obj/item/weapon/gun/syringe,/turf/simulated/floor{icon_state = "white"},/area/medical/medbay)
 "awm" = (/obj/structure/grille,/obj/structure/window/reinforced{dir = 8},/obj/structure/window/reinforced,/obj/structure/window/reinforced{dir = 4},/obj/structure/window/reinforced{dir = 1},/turf/simulated/shuttle/plating,/area/shuttle/arrival/station)
